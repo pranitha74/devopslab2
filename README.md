@@ -5,7 +5,7 @@ Currently learning Github Actions,Devops
 Email: pranitha@gmail.com
 LinkedIn: pranitha-74
 
-![Status](https://img.shields.io/badge/Status-Active-peach)
+![Status](https://img.shields.io/badge/Status-Active-lightgreensn)
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)
 ![Learner](https://img.shields.io/badge/Learner-FFD700?logo=bookstack&logoColor=black)
 
