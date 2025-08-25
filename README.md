@@ -10,8 +10,6 @@ LinkedIn: pranitha-74
 ![Learner](https://img.shields.io/badge/Learner-FFD700?logo=bookstack&logoColor=black)
 
 
-![Pranitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranitha74&show_icons=true&theme=radical)
-
 Badges:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
